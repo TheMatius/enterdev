@@ -1,0 +1,7 @@
+.products_createmenu {
+  margin-bottom: 12px;
+}
+
+.products_createmenu input:last-child {
+  margin-left: 10px;
+}

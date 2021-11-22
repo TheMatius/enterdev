@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  width: 90%;
+  margin: 15px auto;
+}
+
+.app h1 {
+  margin-bottom: 15px;
+}
+
+input[type="button"] {
+  padding: 5px 10px;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid #111;
+  background-color: #333;
+  color: #ddd;
+  cursor: pointer;
+}
+
+input[type="button"]:hover {
+  background-color: #333333dd;
+}
+
+input[type="text"] {
+  padding: 5px;
+  font-size: 15px;
+}

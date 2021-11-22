@@ -1,0 +1,11 @@
+.productlist_table {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  padding: 10px 0px;
+  margin-bottom: 5px;
+}
+
+.productlist_table input[type="button"] {
+  margin-left: 5px;
+}
